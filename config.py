@@ -1,0 +1,1 @@
+TOKEN = '1746768773:AAH2NF2HAOC42AjrrSapr065lQE26nV8pTE' # ТУТ ВАШ ТОКЕН ИЗ @BotFather
