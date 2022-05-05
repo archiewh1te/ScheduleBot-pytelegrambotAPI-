@@ -1,3 +1,0 @@
-pip install pyTelegramBotAPI
-pip install schedule
-pip install sqlite3
